@@ -67,7 +67,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 5. Open a pull request
 
 
-Project Link: 
+Project Link: https://javith111.github.io/Flex-Subscription/
 ```
 
 ### Instructions:
